@@ -20,5 +20,3 @@ Market Data Service is a high-performance, real-time market data distribution sy
 ✅ **Automatic batching** with configurable windows  
 ✅ **Delta detection** to eliminate noise broadcasts  
 ✅ **Production-ready** thread-safe concurrent architecture
-
-## Architecture
